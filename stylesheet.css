@@ -1,0 +1,176 @@
+body{
+    margin: 0px;
+}
+
+.div-1{
+    background-color: #B1E693;
+    color: #297F87;
+}
+
+.div-2{
+    background-color: #FFFEB7;
+}
+
+.div-3{
+  background-color: #C9E4C5;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-family: Brush Script MT;
+}
+
+.center-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-3{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    color: #297F87;
+}
+
+.center-4{
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+    border: 3px;
+    border-color: #297F87;
+    font-size: 35px;
+    color: white;
+}
+
+.center-5{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-6{
+  margin: auto;
+  width:50%;
+  padding: 10px;
+  text-align: center;
+  border: 3px;
+  border-color: #297F87;
+  font-size: 35px;
+  color: white;
+  font-family: Arial Rounded MT Bold;
+}
+
+  .ul {
+    list-style-type: none;
+    margin-left: 900px;
+    overflow: hidden;
+  }
+
+  .ul-2 {
+    list-style-type: none;
+    margin-left: 1000px;
+    overflow: hidden;
+  }
+  
+  .li1 {
+    float: left;
+  }
+  
+  .li {
+    display: block;
+    color: #055052;
+    text-align: center;
+    padding: 8px 10px;
+    text-decoration: none;
+    font-family: Rog Fonts;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  li a:hover:not(.active) {
+    color: black;
+  }
+  
+  .active {
+    color: black;
+  }
+
+  .img{
+    height: 125;
+    width: 125;
+    border-radius: 100%;
+    margin: 8px;
+  }
+
+  .img-1{
+    height: 200;
+    width: 200;
+    margin: 8px;
+  }
+
+  .th{
+    font-size: 25px; 
+    color: #297F87;
+  }
+
+  .p-1{
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    font-family: Berlin Sans FB;
+  }
+
+  .submit {
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: white;
+    font-size: 1.2em;
+    font-family: 'sans-serif';
+    font-weight: bold;
+    background-color: #297F87;
+  }
+
+  .b{
+    margin-left: 45%;
+  }
+
+  .ul-1 {
+    list-style-type: none;
+    margin-left: 400px;
+    overflow: hidden;
+  }
+
+  p,
+    a,
+    ol,
+    ul,
+    th,
+    td {
+      color: #316B83;
+      font-size: 20px;
+    }
+
+    h1,
+    h3 {
+      font-family: ROG Fonts;
+      color: #316B83;
+    }
+
+  
+
+
